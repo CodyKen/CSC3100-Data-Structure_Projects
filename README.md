@@ -1,4 +1,4 @@
-# CSC3100
+# Data Structure
 
 Codes and reports for four projects in CSC3100 Data Structure 2023 Fall.
 
