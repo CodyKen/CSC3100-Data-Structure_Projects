@@ -1,4 +1,4 @@
-Codes and reports for four assignments in CSC3100 Data Structure 2023 Fall.
+Codes and reports for four projects in CSC3100 Data Structure 2023 Fall.
 
 Academic Code:
 
